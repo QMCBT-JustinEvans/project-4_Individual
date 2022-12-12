@@ -1,2 +1,2 @@
-# project-3_zillow_team
-Team Project for Zillow logerror target
+# project-3_individual
+Individual project using own database and choosing own target
